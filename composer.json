@@ -1,0 +1,13 @@
+{
+    "name": "andrecavallari/filter",
+    "description": "Filter plugin for CakePHP 3.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andre",
+            "email": "cavallari@live.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
