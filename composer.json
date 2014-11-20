@@ -1,6 +1,9 @@
 {
     "name": "andrecavallari/filter",
     "description": "Filter plugin for CakePHP 3.0",
+    "type": "cakephp-plugin",
+    "keywords":["cakephp","filter","plugin"],
+    "homepage":"https://github.com/andrecavallari/filter-cake3",
     "license": "MIT",
     "authors": [
         {
