@@ -38,7 +38,7 @@ class FilterComponent extends Component{
     }
 
     protected function __getRange($options){
-        $options +=['separator'=>','];
+        $options +=['separator'=>';'];
         $values = explode($options['separator'],$options['value']);
         return ["{$options['field']} BETWEEN {$values[0]} AND {$values[1]}"];
     }
